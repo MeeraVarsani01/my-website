@@ -1,0 +1,56 @@
+<div class="why-choose-section">
+    <div class="container">
+        <div class="row justify-content-between align-items-center">
+            <div class="col-lg-6" *ngFor="let val of value">
+                <h2 class="section-title">{{val.title}}</h2>
+                <p>{{val.description}}</p>
+
+                <div class="row my-5">   
+
+                    <div class="col-12 col-md-12">
+                        <div class="feature">
+                            <div class="icon">
+                                <img src="assets/images/support.svg" alt="Image" class="imf-fluid">
+                            </div>
+                            <h3>Ingredients</h3>
+                            <p>{{val.details}}</p>
+                        </div>
+                    </div>
+
+                    <div class="col-6 col-md-6">
+                        <div class="feature">
+                            <div class="icon">
+                                <img src="assets/images/bag.svg" alt="Image" class="imf-fluid">
+                            </div>
+                            <h3>Details</h3>
+                            <h3 style="color: #6a6a6a;font-weight:100;">Price:{{val.price}}</h3>
+                            <h3 style="color: #6a6a6a;font-weight:100;">stock:{{val.stock}}</h3>
+                            <h3 style="color: #6a6a6a;font-weight:100;">Weight:{{val.Weight}}</h3>
+                        </div>
+                    </div>
+
+                    <div class="col-6 col-md-6">
+                        <div class="feature">
+                            <div class="icon">
+                                <img src="assets/images/return.svg" alt="Image" class="imf-fluid">
+                            </div>
+                            <h3>Policy</h3>
+                            <h3 style="color: #6a6a6a;font-weight:100;">Validity:{{val.Validity}}</h3>
+                            <h3 style="color: #6a6a6a;font-weight:100;">FSSAI License No:{{val.FSSAI_License_No}}</h3>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-5">
+                <div class="img-wrap">
+                    <img src="https://dhoklahouse.com/wp-content/uploads/2023/09/khamandhokla07.webp" alt="Image" class="img-fluid">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- End Why Choose Us Section -->
+

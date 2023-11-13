@@ -1,0 +1,436 @@
+{
+  "category": [
+    {
+        "parent_id": "0",
+        "category_id": "1",
+        "name": "DHOKLA",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/khamandhokla06.webp",
+        "discription": null,
+        "sub_count": "0",
+        "link": "/dhokla"
+    },
+    {
+        "parent_id": "0",
+        "category_id": "2",
+        "name": "SWEETS",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/Kaju-Katli05.webp",
+        "discription": null,
+        "sub_count": "5",
+        "link": "/sweets"
+    },
+    {
+        "parent_id": "0",
+        "category_id": "3",
+        "name": "NAMKEEN",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/naylonpapdi06.webp",
+        "discription": null,
+        "sub_count": "5",
+        "link": "/namkeen"
+    },
+    {
+        "parent_id": "0",
+        "category_id": "4",
+        "name": "SNACKS",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/chorafali06.webp",
+        "discription": null,
+        "sub_count": "0",
+        "link": "/snacks"
+    },
+    {
+        "parent_id": "0",
+        "category_id": "5",
+        "name": "KHAKHRA",
+        "image": "assets/images/Italian-Khakhra.jpg",
+        "discription": null,
+        "sub_count": "2",
+        "link": "/khakhra"
+    }
+  ],
+  "sub-category": [
+    {
+        "parent_id": "1",
+        "category_id": "11",
+        "name": "Nylon Khaman Dhokla",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/khamandhokla06.webp",
+        "discription": null,
+        "product_id": "1",
+        "link": "/product/1"
+    },
+    {
+        "parent_id": "1",
+        "category_id": "12",
+        "name": "Palak Dhokla",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/palakdhokla02.webp",
+        "discription": null,
+        "product_id": "2",
+        "link": "/product/2"
+    },
+    {
+        "parent_id": "1",
+        "category_id": "13",
+        "name": "Rava Dhokla",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/ravadhokla03.webp",
+        "discription": null,
+        "product_id": "3",
+        "link": "/product/3"
+    },
+    {
+        "parent_id": "1",
+        "category_id": "14",
+        "name": "Masala Dhokla",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/masaladhokla01.webp",
+        "discription": null,
+        "product_id": "4",
+        "link": "/product/4"
+    },
+    {
+        "parent_id": "1",
+        "category_id": "15",
+        "name": "Mix Dhokla",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/mixeddhokla01.webp",
+        "discription": null,
+        "product_id": "5",
+        "link": "/product/5"
+    },
+    {
+        "parent_id": "1",
+        "category_id": "16",
+        "name": "Sev Khamani",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/naylonsev1-no03.webp",
+        "discription": null,
+        "product_id": "6",
+        "link": "/product/6"
+    },
+    {
+        "parent_id": "1",
+        "category_id": "17",
+        "name": "Fafda-Jalebi",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/fafda02.webp",
+        "discription": null,
+        "product_id": "7",
+        "link": "/product/7"
+    },
+    {
+        "parent_id": "1",
+        "category_id": "18",
+        "name": "Pure Ghee Jalebi",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/jalebi05.webp",
+        "discription": null,
+        "product_id": "8",
+        "link": "/product/8"
+    },
+    {
+        "parent_id": "2",
+        "category_id": "21",
+        "name": "Kaju Katli",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/Kaju-Katli05.webp",
+        "discription": null,
+        "product_id": "9",
+        "link": "/product/9"
+    },
+    {
+        "parent_id": "2",
+        "category_id": "22",
+        "name": "Anjeer Katli",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/Anjeer-Katli03.webp",
+        "discription": null,
+        "product_id": "10",
+        "link": "/product/10"
+    },
+    {
+        "parent_id": "2",
+        "category_id": "23",
+        "name": "Anjeer Dry Fruit Barfi",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/Anjeer-Dry-Fruit-Barfi01.webp",
+        "discription": null,
+        "product_id": "11",
+        "link": "/product/11"
+    },
+    {
+        "parent_id": "2",
+        "category_id": "24",
+        "name": "Dry Fruit Blue Berri",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/Blue-Berri01.webp",
+        "discription": null,
+        "product_id": "12",
+        "link": "/product/12"
+    },
+    {
+        "parent_id": "2",
+        "category_id": "25",
+        "name": "Dry Fruit Cran Berri",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/07/Cran-Berri02.jpg",
+        "discription": null,
+        "product_id": "13",
+        "link": "/product/13"
+    },
+    {
+        "parent_id": "2",
+        "category_id": "26",
+        "name": "Dry Fruit Barfi (Honey & Khajur)",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/07/Dry-Fruit-Roll-Khajur-and-Honey04.jpg",
+        "discription": null,
+        "product_id": "14",
+        "link": "/product/14"
+    },
+    {
+        "parent_id": "2",
+        "category_id": "27",
+        "name": "Pista Pan",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2020/10/Kaju-Pan.jpg",
+        "discription": null,
+        "product_id": "15",
+        "link": "/product/15"
+    },
+    {
+        "parent_id": "2",
+        "category_id": "28",
+        "name": "Dry Fruit Laddu",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/07/Dry-Fruit-Laddu03.jpg",
+        "discription": null,
+        "product_id": "16",
+        "link": "/product/16"
+    },
+    {
+        "parent_id": "2",
+        "category_id": "29",
+        "name": "Kaju Delux",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/07/Kaju-Delux02.jpg",
+        "discription": null,
+        "product_id": "17",
+        "link": "/product/17"
+    },
+    {
+        "parent_id": "3",
+        "category_id": "31",
+        "name": "Fafda",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/fafda02.webp",
+        "discription": null,
+        "product_id": "18",
+        "link": "/product/18"
+    },
+    {
+        "parent_id": "3",
+        "category_id": "32",
+        "name": "Nylon Papdi",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/naylonpapdi06.webp",
+        "discription": null,
+        "product_id": "19",
+        "link": "/product/19"
+    },
+    {
+        "parent_id": "3",
+        "category_id": "33",
+        "name": "Bhaji ki Sev",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2020/08/BhajiSev02.webp",
+        "discription": null,
+        "product_id": "20",
+        "link": "/product/20"
+    },
+    {
+        "parent_id": "3",
+        "category_id": "34",
+        "name": "Tikhi Sev",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/tikhisev01.webp",
+        "discription": null,
+        "product_id": "21",
+        "link": "/product/21"
+    },
+    {
+        "parent_id": "3",
+        "category_id": "35",
+        "name": "Lasun Sev",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/lasunsev01.webp",
+        "discription": null,
+        "product_id": "22",
+        "link": "/product/22"
+    },
+    {
+        "parent_id": "3",
+        "category_id": "36",
+        "name": "Mix Farsan",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/07/mixedfarsan05.jpg",
+        "discription": null,
+        "product_id": "23",
+        "link": "/product/23"
+    },
+    {
+        "parent_id": "3",
+        "category_id": "37",
+        "name": "Chorafali",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/chorafali06.webp",
+        "discription": null,
+        "product_id": "24",
+        "link": "/product/24"
+    },
+    {
+        "parent_id": "3",
+        "category_id": "38",
+        "name": "Dry Kachori",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/drykachori03.webp",
+        "discription": null,
+        "product_id": "25",
+        "link": "/product/25"
+    },
+    {
+        "parent_id": "3",
+        "category_id": "39",
+        "name": "Dry Samosa",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/drysamosa05.webp",
+        "discription": null,
+        "product_id": "26",
+        "link": "/product/26"
+    },
+    {
+        "parent_id": "4",
+        "category_id": "41",
+        "name": "Fafda",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/fafda02.webp",
+        "discription": null,
+        "product_id": "27",
+        "link": "/product/27"
+    },
+    {
+        "parent_id": "4",
+        "category_id": "42",
+        "name": "Vanela Gathia",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2020/08/champakali01.jpg",
+        "discription": null,
+        "product_id": "28",
+        "link": "/product/28"
+    },
+    {
+        "parent_id": "4",
+        "category_id": "43",
+        "name": "Pure Ghee Jalebi",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/jalebi05.webp",
+        "discription": null,
+        "product_id": "29",
+        "link": "/product/29"
+    },
+    {
+        "parent_id": "4",
+        "category_id": "44",
+        "name": "Poha Chiwada",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/09/pohachiwada04.webp",
+        "discription": null,
+        "product_id": "30",
+        "link": "/product/30"
+    },
+    {
+        "parent_id": "4",
+        "category_id": "45",
+        "name": "Bhakarwad",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2020/08/bhakarwadi05.jpg",
+        "discription": null,
+        "product_id": "31",
+        "link": "/product/31"
+    },
+    {
+        "parent_id": "4",
+        "category_id": "46",
+        "name": "Soya Stick",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/07/soyastick01.jpg",
+        "discription": null,
+        "product_id": "32",
+        "link": "/product/32"
+    },
+    {
+        "parent_id": "4",
+        "category_id": "47",
+        "name": "Namkeen Puri",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/07/namkeenpuri01.jpg",
+        "discription": null,
+        "product_id": "33",
+        "link": "/product/33"
+    },
+    {
+        "parent_id": "4",
+        "category_id": "48",
+        "name": "Farsi Puri",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2023/07/Farsi-Puri03.jpg",
+        "discription": null,
+        "product_id": "34",
+        "link": "/product/34"
+    },
+    {
+        "parent_id": "5",
+        "category_id": "51",
+        "name": "Masala Khakhra",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2020/10/jirakhakhara.jpg",
+        "discription": null,
+        "product_id": "35",
+        "link": "/product/35"
+    },
+    {
+        "parent_id": "5",
+        "category_id": "52",
+        "name": "Methi Khakhra",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2020/10/methikhakhara.jpg",
+        "discription": null,
+        "product_id": "36",
+        "link": "/product/36"
+    },
+    {
+        "parent_id": "5",
+        "category_id": "53",
+        "name": "Jeera Khakhra",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2020/10/khakhara01.jpg",
+        "discription": null,
+        "product_id": "37",
+        "link": "/product/37"
+    },
+    {
+        "parent_id": "5",
+        "category_id": "54",
+        "name": "Schezwan Khakhra",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2020/10/khakhara02.jpg",
+        "discription": null,
+        "product_id": "38",
+        "link": "/product/38"
+    },
+    {
+        "parent_id": "5",
+        "category_id": "55",
+        "name": "Oats Khakhra",
+        "image": "https://dhoklahouse.com/wp-content/uploads/2020/10/otskhakhara.jpg",
+        "discription": null,
+        "product_id": "39",
+        "link": "/product/39"
+    }
+  ],
+  "product": [
+    {
+        "id": "3",
+        "title": "Rava Dhokla",
+        "description": "Enjoy our snack delicacy from Gujrati cuisine. The dhokla prepared from Sooji(Rava) or semolina. Serve for breakfast, lunch or even for evening snack.",
+        "image": "973ravadhokla1.jpeg",
+        "image2": "59ravadhokla02.jpeg",
+        "image3": "421ravadhokla03.jpeg",
+        "image4": "958ravadhokla04.jpeg",
+        "price": "90",
+        "stock": "1",
+        "detail_img": "443Rava-Dhokla-detail.png",
+        "details": " Ingredients of Rava Dhokla: Sooji, Sugar, Lemon Juice, Salt, Baking Soda, Baking Powder, Black Mustard Seed, Cumin, Cottonseed Oil",
+        "Weight": "250 g",
+        "Validity": "1 Day",
+        "FSSAI_License_No": "21521162000149"
+    },
+    {
+        "id": "4",
+        "title": "Masala Dhokla",
+        "description": "Fulfil your craving with our secret spices. Masala dhokla is one of the special creations that we offer. Enjoy sponge like texture flavored with a spicy tempering and lemon.",
+        "image": "86masaladhokla01.jpeg",
+        "image2": "201masaladhokla03-01-100x100.jpeg",
+        "image3": "454masaladhokla05-01-100x100.jpeg",
+        "image4": "535masaladhokla01-01.jpeg",
+        "price": "90",
+        "stock": "1",
+        "detail_img": "587Masala-Dhokla.png",
+        "details": " Ingredients of Masala Dhokla: Rice, Chana Dal, Makka, Sugar, Salt, Lemon Juice, Baking Soda, baking Powder, Cottonseed Oil, Black Mustard Seed, Cumin",
+        "Weight": "250 g",
+        "Validity": "1 Day",
+        "FSSAI_License_No": "21521162000149"
+    }
+  ]
+}
