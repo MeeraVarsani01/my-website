@@ -43,9 +43,10 @@
                 </div>
             </div>
 
-            <div class="col-lg-5">
+            <div class="col-lg-5" *ngFor="let val of value">
                 <div class="img-wrap">
-                    <img src="https://dhoklahouse.com/wp-content/uploads/2023/09/khamandhokla07.webp" alt="Image" class="img-fluid">
+                    <!-- <img src="https://dhoklahouse.com/wp-content/uploads/2023/09/ravadhokla03.webp" alt="Image" class="img-fluid"> -->
+                    <img src={{val.image}} alt="Image" class="img-fluid">
                 </div>
             </div>
 

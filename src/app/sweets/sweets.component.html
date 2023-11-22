@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12 col-sm-6 col-md-4 mb-5" *ngFor="let val of value">
                 <div class="post-entry">
-                    <a routerLink="/product/4" class="post-thumbnail"><img src={{val.image}} alt="Image" class="img-fluid"></a>
+                    <a routerLink={{val.link}} class="post-thumbnail"><img src={{val.image}} alt="Image" class="img-fluid"></a>
                     <div class="post-content-entry">
                         <h3><a href="#">{{val.name}}</a></h3>
                     </div>

@@ -10,8 +10,16 @@ import { ApiService } from '../api.service';
 export class HomeComponent {
   constructor(private apiService: ApiService) {}
 
+  localStorage = '';
   value: any;
   ngOnInit() {
+    if (!localStorage.getItem('foo')) { 
+      localStorage.setItem('foo', 'no reload') 
+      location.reload() 
+    } else {
+      localStorage.removeItem('foo') 
+    }
+
     this.apiService.getCategory().then((data) => {
       console.log(data);
       this.value = data;

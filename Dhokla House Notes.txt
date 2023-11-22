@@ -1,0 +1,552 @@
+Fetch category product------------------------------->
+"data": {
+        "product": [
+            {
+                "id": "3",
+                "title": "Rava Dhokla",
+                "description": "Enjoy our snack delicacy from Gujrati cuisine. The dhokla prepared from Sooji(Rava) or semolina. Serve for breakfast, lunch or even for evening snack.",
+                "image": "973ravadhokla1.jpeg",
+                "image2": "59ravadhokla02.jpeg",
+                "image3": "421ravadhokla03.jpeg",
+                "image4": "958ravadhokla04.jpeg",
+                "price": "90",
+                "stock": "1",
+                "detail_img": "443Rava-Dhokla-detail.png",
+                "details": " Ingredients of Rava Dhokla: Sooji, Sugar, Lemon Juice, Salt, Baking Soda, Baking Powder, Black Mustard Seed, Cumin, Cottonseed Oil",
+                "Weight": "250 g",
+                "Validity": "1 Day",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "id": "4",
+                "title": "Masala Dhokla",
+                "description": "Fulfil your craving with our secret spices. Masala dhokla is one of the special creations that we offer. Enjoy sponge like texture flavored with a spicy tempering and lemon.",
+                "image": "86masaladhokla01.jpeg",
+                "image2": "201masaladhokla03-01-100x100.jpeg",
+                "image3": "454masaladhokla05-01-100x100.jpeg",
+                "image4": "535masaladhokla01-01.jpeg",
+                "price": "90",
+                "stock": "1",
+                "detail_img": "587Masala-Dhokla.png",
+                "details": " Ingredients of Masala Dhokla: Rice, Chana Dal, Makka, Sugar, Salt, Lemon Juice, Baking Soda, baking Powder, Cottonseed Oil, Black Mustard Seed, Cumin",
+                "Weight": "250 g",
+                "Validity": "1 Day",
+                "FSSAI_License_No": "21521162000149"
+            }
+        ]
+    }
+
+
+fetch banner----------------------------------->
+"data": {
+        "banner": [
+            {
+                "id": "3",
+                "image": "199khamandhokla02.jpeg"
+            },
+            {
+                "id": "5",
+                "image": "930post-wala-logo-1.png"
+            }
+        ]
+    }
+
+
+fetch recent product--------------------------------------------->
+"data": {
+        "Rproduct": [
+            {
+                "id": "3",
+                "title": "Rava Dhokla",
+                "description": "Enjoy our snack delicacy from Gujrati cuisine. The dhokla prepared from Sooji(Rava) or semolina. Serve for breakfast, lunch or even for evening snack.",
+                "image": "973ravadhokla1.jpeg",
+                "image2": "59ravadhokla02.jpeg",
+                "image3": "421ravadhokla03.jpeg",
+                "image4": "958ravadhokla04.jpeg",
+                "price": "90",
+                "stock": "1",
+                "detail_img": "443Rava-Dhokla-detail.png",
+                "details": " Ingredients of Rava Dhokla: Sooji, Sugar, Lemon Juice, Salt, Baking Soda, Baking Powder, Black Mustard Seed, Cumin, Cottonseed Oil",
+                "Weight": "250 g",
+                "Validity": "1 Day",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "id": "6",
+                "title": "Kaju Katli",
+                "description": "The real test of purity for any sweet shop lies in the taste of Kajukatli. Made from rich and high quality cashews as a dominant ingredient coupled with the optimum amount of sugar, Dhokla House’s Kajukatli ultimately exhales uniqueness. The litmus test f",
+                "image": "689Kaju-Katli3-01-100x100.jpeg",
+                "image2": "125Kaju-Katli5-02-100x100.jpeg",
+                "image3": "804Kaju-Katli1-01-100x100.jpeg",
+                "image4": "268Kaju-Katli2-01-100x100.jpeg",
+                "price": "450",
+                "stock": "1",
+                "detail_img": "273Kaju-katli.png",
+                "details": "Ingredients of Kaju Katli: Cashew Nuts, Sugar, Etc.",
+                "Weight": "250 g",
+                "Validity": "8 days from the date of packing",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "id": "8",
+                "title": " Dry Fruit Blue Berri",
+                "description": "\r\nBlueberry is a hidden gem from the berry fruit family. Fulfil you cravings for sinful desserts with our Dry Fruit Blue Berri sweet that is delicious yet different.",
+                "image": "798Blue-Berri2-01-100x100.jpeg",
+                "image2": "302Blue-Berri3-01-100x100.jpeg",
+                "image3": "966Blue-Berri4-01-100x100.jpeg",
+                "image4": "396Blue-Berri1-01-100x100.jpeg",
+                "price": "650",
+                "stock": "1",
+                "detail_img": "55Dry-Fruit-Blue-Berri.png",
+                "details": " Ingredients of Dry Fruit Blue Berri: Cashew Nuts, Almonds, Pistachio, Honey, Ghee, Etc",
+                "Weight": "250 g",
+                "Validity": "8 days from the date of packing",
+                "FSSAI_License_No": "21521162000149"
+            }
+        ]
+    }
+
+
+special products------------------------------------------------->
+"data": {
+        "Sproduct": [
+            {
+                "id": "3",
+                "title": "Rava Dhokla",
+                "description": "Enjoy our snack delicacy from Gujrati cuisine. The dhokla prepared from Sooji(Rava) or semolina. Serve for breakfast, lunch or even for evening snack.",
+                "image": "973ravadhokla1.jpeg",
+                "image2": "59ravadhokla02.jpeg",
+                "image3": "421ravadhokla03.jpeg",
+                "image4": "958ravadhokla04.jpeg",
+                "price": "90",
+                "stock": "1",
+                "detail_img": "443Rava-Dhokla-detail.png",
+                "details": " Ingredients of Rava Dhokla: Sooji, Sugar, Lemon Juice, Salt, Baking Soda, Baking Powder, Black Mustard Seed, Cumin, Cottonseed Oil",
+                "Weight": "250 g",
+                "Validity": "1 Day",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "id": "4",
+                "title": "Masala Dhokla",
+                "description": "Fulfil your craving with our secret spices. Masala dhokla is one of the special creations that we offer. Enjoy sponge like texture flavored with a spicy tempering and lemon.",
+                "image": "86masaladhokla01.jpeg",
+                "image2": "201masaladhokla03-01-100x100.jpeg",
+                "image3": "454masaladhokla05-01-100x100.jpeg",
+                "image4": "535masaladhokla01-01.jpeg",
+                "price": "90",
+                "stock": "1",
+                "detail_img": "587Masala-Dhokla.png",
+                "details": " Ingredients of Masala Dhokla: Rice, Chana Dal, Makka, Sugar, Salt, Lemon Juice, Baking Soda, baking Powder, Cottonseed Oil, Black Mustard Seed, Cumin",
+                "Weight": "250 g",
+                "Validity": "1 Day",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "id": "6",
+                "title": "Kaju Katli",
+                "description": "The real test of purity for any sweet shop lies in the taste of Kajukatli. Made from rich and high quality cashews as a dominant ingredient coupled with the optimum amount of sugar, Dhokla House’s Kajukatli ultimately exhales uniqueness. The litmus test f",
+                "image": "689Kaju-Katli3-01-100x100.jpeg",
+                "image2": "125Kaju-Katli5-02-100x100.jpeg",
+                "image3": "804Kaju-Katli1-01-100x100.jpeg",
+                "image4": "268Kaju-Katli2-01-100x100.jpeg",
+                "price": "450",
+                "stock": "1",
+                "detail_img": "273Kaju-katli.png",
+                "details": "Ingredients of Kaju Katli: Cashew Nuts, Sugar, Etc.",
+                "Weight": "250 g",
+                "Validity": "8 days from the date of packing",
+                "FSSAI_License_No": "21521162000149"
+            }
+        ]
+    }
+
+
+Deal products----------------------------------------------------------------->
+"data": {
+        "Dproduct": [
+            {
+                "id": "7",
+                "title": " Anjeer Dry Fruit Barfi",
+                "description": "\r\nTry our very healthy and nutritious sweet with the natural sweetness from figs and various dry fruits like almonds, cashew nuts and pistachio.",
+                "image": "464Anjeer-Dry-fruit-katli-100x100.jpg",
+                "image2": "538Anjeer-Dry-fruit-02-100x100.jpeg",
+                "image3": "651Anjeer-Dry-fruit-03-100x100.jpeg",
+                "image4": "781Anjeer-Dry-fruit-04-100x100.jpeg",
+                "price": "390",
+                "stock": "1",
+                "detail_img": "689Anjeer-Dry-Fruit-Barfi.png",
+                "details": " Ingredients of Anjeer Dry Fruit Barfi: Anjeer, Solid Milk(Khoa), Saturated Sugar, cashew nuts, Almonds, Ghee, Etc",
+                "Weight": "250 g",
+                "Validity": "8 days from the date of packing",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "id": "8",
+                "title": " Dry Fruit Blue Berri",
+                "description": "\r\nBlueberry is a hidden gem from the berry fruit family. Fulfil you cravings for sinful desserts with our Dry Fruit Blue Berri sweet that is delicious yet different.",
+                "image": "798Blue-Berri2-01-100x100.jpeg",
+                "image2": "302Blue-Berri3-01-100x100.jpeg",
+                "image3": "966Blue-Berri4-01-100x100.jpeg",
+                "image4": "396Blue-Berri1-01-100x100.jpeg",
+                "price": "650",
+                "stock": "1",
+                "detail_img": "55Dry-Fruit-Blue-Berri.png",
+                "details": " Ingredients of Dry Fruit Blue Berri: Cashew Nuts, Almonds, Pistachio, Honey, Ghee, Etc",
+                "Weight": "250 g",
+                "Validity": "8 days from the date of packing",
+                "FSSAI_License_No": "21521162000149"
+            }
+        ]
+    }
+
+
+Last product-------------------------------------------------------->
+"data": {
+        "Lproduct": [
+            {
+                "id": "4",
+                "title": "Masala Dhokla",
+                "description": "Fulfil your craving with our secret spices. Masala dhokla is one of the special creations that we offer. Enjoy sponge like texture flavored with a spicy tempering and lemon.",
+                "image": "86masaladhokla01.jpeg",
+                "image2": "201masaladhokla03-01-100x100.jpeg",
+                "image3": "454masaladhokla05-01-100x100.jpeg",
+                "image4": "535masaladhokla01-01.jpeg",
+                "price": "90",
+                "stock": "1",
+                "detail_img": "587Masala-Dhokla.png",
+                "details": " Ingredients of Masala Dhokla: Rice, Chana Dal, Makka, Sugar, Salt, Lemon Juice, Baking Soda, baking Powder, Cottonseed Oil, Black Mustard Seed, Cumin",
+                "Weight": "250 g",
+                "Validity": "1 Day",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "id": "6",
+                "title": "Kaju Katli",
+                "description": "The real test of purity for any sweet shop lies in the taste of Kajukatli. Made from rich and high quality cashews as a dominant ingredient coupled with the optimum amount of sugar, Dhokla House’s Kajukatli ultimately exhales uniqueness. The litmus test f",
+                "image": "689Kaju-Katli3-01-100x100.jpeg",
+                "image2": "125Kaju-Katli5-02-100x100.jpeg",
+                "image3": "804Kaju-Katli1-01-100x100.jpeg",
+                "image4": "268Kaju-Katli2-01-100x100.jpeg",
+                "price": "450",
+                "stock": "1",
+                "detail_img": "273Kaju-katli.png",
+                "details": "Ingredients of Kaju Katli: Cashew Nuts, Sugar, Etc.",
+                "Weight": "250 g",
+                "Validity": "8 days from the date of packing",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "id": "8",
+                "title": " Dry Fruit Blue Berri",
+                "description": "\r\nBlueberry is a hidden gem from the berry fruit family. Fulfil you cravings for sinful desserts with our Dry Fruit Blue Berri sweet that is delicious yet different.",
+                "image": "798Blue-Berri2-01-100x100.jpeg",
+                "image2": "302Blue-Berri3-01-100x100.jpeg",
+                "image3": "966Blue-Berri4-01-100x100.jpeg",
+                "image4": "396Blue-Berri1-01-100x100.jpeg",
+                "price": "650",
+                "stock": "1",
+                "detail_img": "55Dry-Fruit-Blue-Berri.png",
+                "details": " Ingredients of Dry Fruit Blue Berri: Cashew Nuts, Almonds, Pistachio, Honey, Ghee, Etc",
+                "Weight": "250 g",
+                "Validity": "8 days from the date of packing",
+                "FSSAI_License_No": "21521162000149"
+            }
+        ]
+    }
+
+
+fetch reviews---------------------------------------------------------->
+"data": {
+        "productreview": [
+            {
+                "rew_id": "1",
+                "product_id": "1",
+                "review": "it is very good",
+                "rating": "4",
+                "email": "abc@gmail.com",
+                "mobile": "1234567890",
+                "name": "akshay"
+            },
+            {
+                "rew_id": "27",
+                "product_id": "1",
+                "review": "",
+                "rating": "0",
+                "email": "",
+                "mobile": "0",
+                "name": ""
+            },
+            {
+                "rew_id": "29",
+                "product_id": "1",
+                "review": "",
+                "rating": "0",
+                "email": "",
+                "mobile": "0",
+                "name": ""
+            },
+            {
+                "rew_id": "43",
+                "product_id": "1",
+                "review": "",
+                "rating": "0",
+                "email": "",
+                "mobile": "0",
+                "name": ""
+            },
+            {
+                "rew_id": "49",
+                "product_id": "1",
+                "review": "very tesy",
+                "rating": "5",
+                "email": "qq@gmail.com",
+                "mobile": "2147483647",
+                "name": ""
+            },
+            {
+                "rew_id": "64",
+                "product_id": "1",
+                "review": "nylon khaman",
+                "rating": "0",
+                "email": "nkd@gmail.com",
+                "mobile": "2147483647",
+                "name": ""
+            },
+            {
+                "rew_id": "66",
+                "product_id": "1",
+                "review": "added",
+                "rating": "0",
+                "email": "add@gmail.com",
+                "mobile": "1234567890",
+                "name": ""
+            },
+            {
+                "rew_id": "67",
+                "product_id": "1",
+                "review": "great",
+                "rating": "0",
+                "email": "zz@gmail.com",
+                "mobile": "1234567890",
+                "name": ""
+            },
+            {
+                "rew_id": "69",
+                "product_id": "1",
+                "review": "good",
+                "rating": "0",
+                "email": "oo@gmail.com",
+                "mobile": "1234567890",
+                "name": "ekta"
+            }
+        ]
+    }
+
+fetch address of user_id =1 ------------------------------------------------------------------->
+"data": {
+        "addresses": [
+            {
+                "add_id": "5",
+                "user_id": "1",
+                "first_name": "",
+                "last_name": "S",
+                "mobile_no": "1234567890",
+                "street_address": "B9 1024, Kesar society",
+                "city": "Rajkot",
+                "state": "0",
+                "pin": "360110",
+                "status": "1"
+            },
+            {
+                "add_id": "15",
+                "user_id": "1",
+                "first_name": "p",
+                "last_name": "S",
+                "mobile_no": "1234567890",
+                "street_address": "B9 1024, Kesar society",
+                "city": "Rajkot",
+                "state": "0",
+                "pin": "360110",
+                "status": null
+            },
+            {
+                "add_id": "16",
+                "user_id": "1",
+                "first_name": "paresh",
+                "last_name": "S",
+                "mobile_no": "1234567890",
+                "street_address": "B9 1024, Kesar society",
+                "city": "Rajkot",
+                "state": "0",
+                "pin": "360110",
+                "status": null
+            }
+        ]
+    }
+
+
+fetch my favorite ---------------------------------------------------------->
+ "data": {
+        "fevproduct": [
+            {
+                "fev_id": null,
+                "user_id": "1",
+                "id": "7",
+                "title": " Anjeer Dry Fruit Barfi",
+                "description": "\r\nTry our very healthy and nutritious sweet with the natural sweetness from figs and various dry fruits like almonds, cashew nuts and pistachio.",
+                "image": "464Anjeer-Dry-fruit-katli-100x100.jpg",
+                "image2": "538Anjeer-Dry-fruit-02-100x100.jpeg",
+                "image3": "651Anjeer-Dry-fruit-03-100x100.jpeg",
+                "image4": "781Anjeer-Dry-fruit-04-100x100.jpeg",
+                "price": "390",
+                "stock": "1",
+                "detail_img": "689Anjeer-Dry-Fruit-Barfi.png",
+                "details": " Ingredients of Anjeer Dry Fruit Barfi: Anjeer, Solid Milk(Khoa), Saturated Sugar, cashew nuts, Almonds, Ghee, Etc",
+                "Weight": "250 g",
+                "Validity": "8 days from the date of packing",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "fev_id": null,
+                "user_id": "1",
+                "id": "4",
+                "title": "Masala Dhokla",
+                "description": "Fulfil your craving with our secret spices. Masala dhokla is one of the special creations that we offer. Enjoy sponge like texture flavored with a spicy tempering and lemon.",
+                "image": "86masaladhokla01.jpeg",
+                "image2": "201masaladhokla03-01-100x100.jpeg",
+                "image3": "454masaladhokla05-01-100x100.jpeg",
+                "image4": "535masaladhokla01-01.jpeg",
+                "price": "90",
+                "stock": "1",
+                "detail_img": "587Masala-Dhokla.png",
+                "details": " Ingredients of Masala Dhokla: Rice, Chana Dal, Makka, Sugar, Salt, Lemon Juice, Baking Soda, baking Powder, Cottonseed Oil, Black Mustard Seed, Cumin",
+                "Weight": "250 g",
+                "Validity": "1 Day",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "fev_id": null,
+                "user_id": "1",
+                "id": "3",
+                "title": "Rava Dhokla",
+                "description": "Enjoy our snack delicacy from Gujrati cuisine. The dhokla prepared from Sooji(Rava) or semolina. Serve for breakfast, lunch or even for evening snack.",
+                "image": "973ravadhokla1.jpeg",
+                "image2": "59ravadhokla02.jpeg",
+                "image3": "421ravadhokla03.jpeg",
+                "image4": "958ravadhokla04.jpeg",
+                "price": "90",
+                "stock": "1",
+                "detail_img": "443Rava-Dhokla-detail.png",
+                "details": " Ingredients of Rava Dhokla: Sooji, Sugar, Lemon Juice, Salt, Baking Soda, Baking Powder, Black Mustard Seed, Cumin, Cottonseed Oil",
+                "Weight": "250 g",
+                "Validity": "1 Day",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "fev_id": null,
+                "user_id": "1",
+                "id": "3",
+                "title": "Rava Dhokla",
+                "description": "Enjoy our snack delicacy from Gujrati cuisine. The dhokla prepared from Sooji(Rava) or semolina. Serve for breakfast, lunch or even for evening snack.",
+                "image": "973ravadhokla1.jpeg",
+                "image2": "59ravadhokla02.jpeg",
+                "image3": "421ravadhokla03.jpeg",
+                "image4": "958ravadhokla04.jpeg",
+                "price": "90",
+                "stock": "1",
+                "detail_img": "443Rava-Dhokla-detail.png",
+                "details": " Ingredients of Rava Dhokla: Sooji, Sugar, Lemon Juice, Salt, Baking Soda, Baking Powder, Black Mustard Seed, Cumin, Cottonseed Oil",
+                "Weight": "250 g",
+                "Validity": "1 Day",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "fev_id": null,
+                "user_id": "1",
+                "id": "4",
+                "title": "Masala Dhokla",
+                "description": "Fulfil your craving with our secret spices. Masala dhokla is one of the special creations that we offer. Enjoy sponge like texture flavored with a spicy tempering and lemon.",
+                "image": "86masaladhokla01.jpeg",
+                "image2": "201masaladhokla03-01-100x100.jpeg",
+                "image3": "454masaladhokla05-01-100x100.jpeg",
+                "image4": "535masaladhokla01-01.jpeg",
+                "price": "90",
+                "stock": "1",
+                "detail_img": "587Masala-Dhokla.png",
+                "details": " Ingredients of Masala Dhokla: Rice, Chana Dal, Makka, Sugar, Salt, Lemon Juice, Baking Soda, baking Powder, Cottonseed Oil, Black Mustard Seed, Cumin",
+                "Weight": "250 g",
+                "Validity": "1 Day",
+                "FSSAI_License_No": "21521162000149"
+            },
+            {
+                "fev_id": null,
+                "user_id": "1",
+                "id": "6",
+                "title": "Kaju Katli",
+                "description": "The real test of purity for any sweet shop lies in the taste of Kajukatli. Made from rich and high quality cashews as a dominant ingredient coupled with the optimum amount of sugar, Dhokla House’s Kajukatli ultimately exhales uniqueness. The litmus test f",
+                "image": "689Kaju-Katli3-01-100x100.jpeg",
+                "image2": "125Kaju-Katli5-02-100x100.jpeg",
+                "image3": "804Kaju-Katli1-01-100x100.jpeg",
+                "image4": "268Kaju-Katli2-01-100x100.jpeg",
+                "price": "450",
+                "stock": "1",
+                "detail_img": "273Kaju-katli.png",
+                "details": "Ingredients of Kaju Katli: Cashew Nuts, Sugar, Etc.",
+                "Weight": "250 g",
+                "Validity": "8 days from the date of packing",
+                "FSSAI_License_No": "21521162000149"
+            }
+        ]
+    }
+
+
+my cart ------------------------------------------------------------->
+"data": {
+        "cartproduct": [
+            {
+                "fev_id": "25",
+                "user_id": "1",
+                "quantity": "3",
+                "id": "8",
+                "title": " Dry Fruit Blue Berri",
+                "description": "\r\nBlueberry is a hidden gem from the berry fruit family. Fulfil you cravings for sinful desserts with our Dry Fruit Blue Berri sweet that is delicious yet different.",
+                "image": "798Blue-Berri2-01-100x100.jpeg",
+                "image2": "302Blue-Berri3-01-100x100.jpeg",
+                "image3": "966Blue-Berri4-01-100x100.jpeg",
+                "image4": "396Blue-Berri1-01-100x100.jpeg",
+                "price": "650",
+                "stock": "1",
+                "detail_img": "55Dry-Fruit-Blue-Berri.png",
+                "details": " Ingredients of Dry Fruit Blue Berri: Cashew Nuts, Almonds, Pistachio, Honey, Ghee, Etc",
+                "Weight": "250 g",
+                "Validity": "8 days from the date of packing",
+                "FSSAI_License_No": "21521162000149"
+            }
+        ]
+    }
+
+
+user profile user_id = 1 ----------------------------------------------->
+"data": {
+        "userprifile": [
+            {
+                "id": "1",
+                "name": "ekta",
+                "email": "szz@d",
+                "mobile": "1234567890",
+                "photo": "image_picker3343929331303041920.jpg"
+            }
+        ]
+    }
+
+
+fetch offer ------------------------------------------------------>
+"data": {
+        "offers": [
+            {
+                "image": "196arrival-2.jpg",
+                "discription": "200rs offer on 1000 "
+            }
+        ]
+    }

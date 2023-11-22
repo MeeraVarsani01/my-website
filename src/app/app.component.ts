@@ -14,6 +14,8 @@ export class AppComponent {
 
   constructor(private apiService: ApiService) {}
 
+  localStorage = '';
+
   categoryValue: any;
   dhoklaCategory: any;
   sweetCategory: any;
@@ -45,6 +47,22 @@ export class AppComponent {
     this.apiService.subCategory().then((data: any[]) => {
       this.khakhraCategory = data.filter((id: { parent_id: number; }) => id.parent_id == 5);
     })
+  }
+
+  dropdown(){
+    let element : HTMLElement = document.getElementsByClassName("dropcontent")[0] as HTMLElement;
+
+    if(element != null && element != undefined) {
+      element.onclick = reload;
+      function reload() {
+        if (!localStorage.getItem('foo')) { 
+          localStorage.setItem('foo', 'no reload') 
+          location.reload() 
+        } else {
+          localStorage.removeItem('foo') 
+        }
+      }
+    }
   }
 
 

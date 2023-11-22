@@ -11,6 +11,7 @@ import { ActivatedRoute } from '@angular/router';
 export class ProductDetailsComponent {
   id: any;
   value: any;
+  localStorage = '';
 
   constructor(private apiService : ApiService, private route: ActivatedRoute) {
     this.route.paramMap.subscribe(params => {
@@ -19,6 +20,13 @@ export class ProductDetailsComponent {
   }
 
   ngOnInit(){
+    if (!localStorage.getItem('foo')) { 
+      localStorage.setItem('foo', 'no reload') 
+      location.reload() 
+    } else {
+      localStorage.removeItem('foo') 
+    }
+
     console.log(this.id);
     this.apiService.product().then((data: any[]) => {
       this.value = data.filter((response: { id: number; }) => response.id == this.id);
